@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome to the loan calculator!",
+  "validEntry": "Please enter a positive number as a numeral",
+  "loan": "What is the amount of your loan?",
+  "APR": "What is the annual percentage rate?\n=>For example, enter '5' for 5% or '2.5' for 2.5%",
+  "duration": "How many years do you have to pay off the loan?",
+  "again": "Would you like to enter another loan?",
+  "validAnswer": "Please only enter 'yes' or 'no'."
+}
