@@ -1,0 +1,16 @@
+{
+  "Welcome": "Welcome to the Tic-Tac-Toe Game!",
+  "Who first": "Who should go first? Select '1' for human or '2' computer",
+  "Initiate CPU": "Hit the enter key to initiate computer's move",
+ "Human score": "Your score is:",
+ "CPU score": "The computer's score is:",
+ "Victory condition": "The first player to five points is the grand winner",
+ "Selection": "Please select an open square",
+ "Valid": "That is not a valid selection: please make another selection",
+ "Choices": "The following squares are open:",
+ "Play again": "Would you like to play again (yes/no)?",
+ "Invalid answer": "That is not a valid answer: please select 'yes' or 'no'",
+ "Human wins": "You are the grand winner!",
+ "CPU wins": "The computer is the grand winner!",
+ "Thanks": "Thanks for playing!"
+}
